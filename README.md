@@ -23,13 +23,23 @@ https://github.com/acgetchell/CDT-plusplus
 
 
 
-## graphity: Research in background independent quantum gravity, also known as quantum graphity.
+## Graphity: Research in background independent quantum gravity, also known as quantum graphity.
 
 https://pypi.org/project/graphity/
 
 https://github.com/Matthew-McRaven/graphity
 
 https://matthew-mcraven.github.io/
+
+Konopka, Tomasz, Fotini Markopoulou, and Lee Smolin. "Quantum graphity." arXiv preprint hep-th/0611197 (2006). (https://arxiv.org/abs/hep-th/0611197)
+
+Konopka, Tomasz, Fotini Markopoulou, and Simone Severini. "Quantum graphity: a model of emergent locality." Physical Review D 77, no. 10 (2008): 104029. (https://journals.aps.org/prd/abstract/10.1103/PhysRevD.77.104029)
+
+Caravelli, Francesco, and Fotini Markopoulou. "Properties of quantum graphity at low temperature." Physical Review D 84, no. 2 (2011): 024002. (https://journals.aps.org/prd/abstract/10.1103/PhysRevD.84.024002)
+
+Requardt, Manfred, and Saeed Rastgoo. "The structurally dynamic cellular network and quantum graphity approaches to quantum gravity and quantum geometry-a review and comparison." arXiv preprint arXiv:1501.00391 (2015). (https://arxiv.org/abs/1501.00391)
+
+Quach, James Q., Chun-Hsu Su, Andrew M. Martin, and Andrew D. Greentree. "Domain structures in quantum graphity." Physical Review D 86, no. 4 (2012): 044001. (https://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.044001)
 
 ## Computational Causal Dynamical Triangulation
 
