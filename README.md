@@ -22,7 +22,6 @@ https://github.com/acgetchell/CDT-plusplus
 ![](img/cdt_plusplus.png)
 
 
-
 ## Graphity: Research in background independent quantum gravity, also known as quantum graphity.
 
 https://pypi.org/project/graphity/
@@ -59,6 +58,27 @@ https://pypi.org/project/tensorflow-quantum/
 
 He, Yang-Hui. "Deep-learning the landscape." arXiv preprint arXiv:1706.02714 (2017). (https://arxiv.org/abs/1706.02714)
 
+## Causal Sets
+
+* Python Causets: 
+
+https://github.com/c-minz/Python-causets
+
+https://github.com/c-minz/Python-causets-examples. The files operators_causal.py and pastinf_sizes.py are scripts that produce small data sets for plots and a data table given in my PhD thesis [1] and the publication [2].
+
+[1] C. Minz, Algebraic Field Theory on Causal Sets: Local Structures and Quantization Methods, PhD thesis, University of York (2021).
+
+[2] C. J. Fewster, E. Hawkins, C. Minz, and K. Rejzner, Local structure of sprinkled causal sets, Phys. Rev. D 103, 086020 (2021). https://doi.org/10.1103/PhysRevD.103.086020
+
+![](img/causets_pic1.png)
+
+* Causal Sets Explorer 
+
+Causal sets explorer will eventually perform graph-theoretic calculations on Causal sets.It's also a test-bed for CDT-plusplus.
+https://github.com/acgetchell/causal-sets-explorer
+
+The causal set approach to quantum gravity: https://arxiv.org/abs/1903.11544
+
 ## Deep Learning as Spacetime
 
 Deep Learning and Quantum Gravity, https://www.youtube.com/watch?v=vnMC-InCS1Y
@@ -78,6 +98,8 @@ Explainable deep learning models for cosmological structure formation, https://w
 Vanchurin, Vitaly. "Towards a theory of quantum gravity from neural networks." Entropy 24, no. 1 (2021): 7. (https://www.mdpi.com/1099-4300/24/1/7)
 
 Physics Meets ML: https://www.youtube.com/@physicsmeetsml6979
+
+Will quantum theory and relativity meet at the nanoscale? https://kavlifoundation.org/news/will-quantum-theory-and-relativity-meet-at-the-nanoscale
 
 
 
