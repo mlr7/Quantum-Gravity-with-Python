@@ -40,6 +40,17 @@ Requardt, Manfred, and Saeed Rastgoo. "The structurally dynamic cellular network
 
 Quach, James Q., Chun-Hsu Su, Andrew M. Martin, and Andrew D. Greentree. "Domain structures in quantum graphity." Physical Review D 86, no. 4 (2012): 044001. (https://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.044001)
 
+## Quantum Gravity on the Computer, Nordita, Stockholm, Mar 5-9, 2018
+
+https://indico.fysik.su.se/event/6242/
+
+https://indico.fysik.su.se/event/6242/timetable/#20180305
+
+https://indico.fysik.su.se/event/6242/page/419-slides-from-talks
+
+Glaser, Lisa, and Sebastian Steinhaus. "Quantum Gravity on the computer: Impressions of a workshop." Universe 5, no. 1 (2019): 35. (https://www.mdpi.com/2218-1997/5/1/35)
+
+
 ## Computational Causal Dynamical Triangulation
 
 Israel, Norman S., and John F. Lindner. "Quantum gravity on a laptop: 1+ 1 Dimensional Causal Dynamical Triangulation simulation." Results in Physics 2 (2012): 164-169.
@@ -96,6 +107,8 @@ Modeling a Theory of Gravity Using Machine Learning, https://www.youtube.com/wat
 Explainable deep learning models for cosmological structure formation, https://www.youtube.com/watch?v=GMXxbmXapsw
 
 Vanchurin, Vitaly. "Towards a theory of quantum gravity from neural networks." Entropy 24, no. 1 (2021): 7. (https://www.mdpi.com/1099-4300/24/1/7)
+
+(find thesis and papers around 2018 from sean carroll caltch group on deep learning as quantum gravity, deep slide set, etc.)
 
 Physics Meets ML: https://www.youtube.com/@physicsmeetsml6979
 
