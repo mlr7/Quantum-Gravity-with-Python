@@ -57,6 +57,27 @@ https://github.com/google-research/google-research/tree/master/m_theory
 
 https://pypi.org/project/tensorflow-quantum/
 
+He, Yang-Hui. "Deep-learning the landscape." arXiv preprint arXiv:1706.02714 (2017). (https://arxiv.org/abs/1706.02714)
+
+## Deep Learning as Spacetime
+
+Deep Learning and Quantum Gravity, https://www.youtube.com/watch?v=vnMC-InCS1Y
+
+Koji Hashimoto, Osaka University: http://www.physicsmeetsml.org/posts/sem_2020_06_17/
+
+Gan, Wen-Cong, and Fu-Wen Shu. "Holography as deep learning." International Journal of Modern Physics D 26, no. 12 (2017): 1743020. (https://www.worldscientific.com/doi/abs/10.1142/S0218271817430209)
+
+Hashimoto, Koji, Sotaro Sugishita, Akinori Tanaka, and Akio Tomiya. "Deep learning and the AdS/CFT correspondence." Physical Review D 98, no. 4 (2018): 046019. (https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
+
+## Misc
+
+Modeling a Theory of Gravity Using Machine Learning, https://www.youtube.com/watch?v=hij6tdAkb3M
+
+Explainable deep learning models for cosmological structure formation, https://www.youtube.com/watch?v=GMXxbmXapsw
+
+Vanchurin, Vitaly. "Towards a theory of quantum gravity from neural networks." Entropy 24, no. 1 (2021): 7. (https://www.mdpi.com/1099-4300/24/1/7)
+
+Physics Meets ML: https://www.youtube.com/@physicsmeetsml6979
 
 
 
