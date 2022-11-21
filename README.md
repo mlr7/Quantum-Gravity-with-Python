@@ -2,6 +2,7 @@
 An aggregation of Python libraries dedicated to approaches to Quantum Gravity and related ideas
 
 ![](img/cdt1.png)
+
 Beginning with a homogeneous 1 + 1 dimensional universe (left), large vacuum fluctuations in circumference arise (right). From Israel, Norman S., and John F. Lindner. "Quantum gravity on a laptop: 1+ 1 Dimensional Causal Dynamical Triangulation simulation." Results in Physics 2 (2012): 164-169.
 
 ## CDTea: Utilities for studying causal dynamical triangulations in Python
