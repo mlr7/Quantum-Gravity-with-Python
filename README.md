@@ -88,7 +88,18 @@ https://github.com/c-minz/Python-causets-examples. The files operators_causal.py
 Causal sets explorer will eventually perform graph-theoretic calculations on Causal sets.It's also a test-bed for CDT-plusplus.
 https://github.com/acgetchell/causal-sets-explorer
 
-The causal set approach to quantum gravity: https://arxiv.org/abs/1903.11544
+The causal set approach to quantum gravity: https://arxiv.org/abs/1903.11544* 
+
+* Causal Sets discussed in Lee Smolin and Roberto Mangabeira Unger. The singular universe and the reality of time. Cambridge University Press, 2015.
+
+Page 388: 
+Relational purism. A relational purist believes that once background structures are eliminated physics will be reduced to a description of nature purely in terms of relationahips. 
+
+An important example is the causal set program which aims to develop a complete theory of quantum gravity - and huence nature - on the basis of an ontology of discrete events, the only attributes of which are bare causal relations. 
+
+The aspiration of the causal set program is to construct the geometry of a Lorentzian spacetime approximately satisfying the Einstein equations as emergent only from a discrete set of events and their bare causal relations. To date this has not been achieved except in trvial caes . . . 
+
+. . . This view is realized in the energetic causal set framework according to which momentum and energy are fundamental and intrinsic and defined prior to spacetime . . . 
 
 ## Deep Learning as Spacetime
 
